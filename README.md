@@ -64,3 +64,8 @@
 
 - [RaspberryPi](https://www.raspberrypi.org)
 - [Arduino](https://www.arduino.cc)
+
+## Programming and Scripting Languages
+
+- [Ruby](https://www.ruby-lang.org)
+- [Haskell](https://www.haskell.org) Pattern matching on function definitions, loving it
