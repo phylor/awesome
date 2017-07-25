@@ -59,6 +59,7 @@
 
 - [vim](http://www.vim.org)
 - [RubyMine](https://www.jetbrains.com/ruby/)
+- [Fira Code](https://github.com/tonsky/FiraCode) Font with ligatures, designed for programming
 
 ## Hardware
 
