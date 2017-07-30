@@ -11,6 +11,7 @@
 - [Elm](http://elm-lang.org) Functional language compiling to JavaScript, easy and clean architecture
 - [Skeleton](http://getskeleton.com/) simple, responsive CSS boilerplate
 - [Haml](http://haml.info) Simplest HTML abstraction
+- [Chartkick](https://www.chartkick.com) Charts in a Ruby one-liner
 
 ### Development Tools
 
