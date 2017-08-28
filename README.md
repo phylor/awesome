@@ -71,3 +71,7 @@
 
 - [Ruby](https://www.ruby-lang.org)
 - [Haskell](https://www.haskell.org) Pattern matching on function definitions, loving it
+
+## Talks
+
+- [Inbox Zero](https://www.youtube.com/watch?v=z9UjeTMb3Yk)
