@@ -12,11 +12,16 @@
 - [Skeleton](http://getskeleton.com/) simple, responsive CSS boilerplate
 - [Haml](http://haml.info) Simplest HTML abstraction
 - [Chartkick](https://www.chartkick.com) Charts in a Ruby one-liner
+- [rqrcode](https://github.com/whomwah/rqrcode)
+- [Simple Form](https://github.com/plataformatec/simple_form)
+- [Country Select](https://github.com/stefanpenner/country_select)
 
 ### Development Tools
 
 - [Letter Opener](https://github.com/ryanb/letter_opener)
-- [Better Errors](https://github.com/charliesome/better_errors)
+- [Faker](https://github.com/stympy/faker)
+- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
+- [Capybara](https://github.com/teamcapybara/capybara)
 
 ### Authentication and Authorization
 
