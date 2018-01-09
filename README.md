@@ -15,6 +15,7 @@
 - [rqrcode](https://github.com/whomwah/rqrcode)
 - [Simple Form](https://github.com/plataformatec/simple_form)
 - [Country Select](https://github.com/stefanpenner/country_select)
+- [Axios](https://github.com/axios/axios) Promise based HTTP client library for JavaScript
 
 ### Development Tools
 
