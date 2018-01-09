@@ -9,7 +9,7 @@
 ### Frontend
 
 - [Elm](http://elm-lang.org) Functional language compiling to JavaScript, easy and clean architecture
-- [Skeleton](http://getskeleton.com/) simple, responsive CSS boilerplate
+- [Skeleton](http://getskeleton.com/) simple, responsive CSS boilerplate ([Rails gem](https://github.com/helios-technologies/skeleton-rails))
 - [Haml](http://haml.info) Simplest HTML abstraction
 - [Chartkick](https://www.chartkick.com) Charts in a Ruby one-liner
 - [rqrcode](https://github.com/whomwah/rqrcode)
@@ -23,6 +23,7 @@
 - [Faker](https://github.com/stympy/faker)
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
 - [Capybara](https://github.com/teamcapybara/capybara)
+- [Hotel](https://github.com/typicode/hotel) Management of local development servers right from your browser
 
 ### Authentication and Authorization
 
